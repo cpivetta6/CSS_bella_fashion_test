@@ -27,3 +27,12 @@ a {
 .centralize{
 	text-align: center;
 }
+
+h5 {
+	color: #828271;
+	font-size: 0.8em;
+}
+
+.img-campanha {
+	border:10px solid #c3c3ae;
+}
